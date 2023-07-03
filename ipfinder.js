@@ -35,10 +35,6 @@ console.log(`
 \x1b[0;36m        Contact with Me : \x1b[4;34m[GitHub](https://github.com/zobaidulkazi)\x1b[0m
 \x1b[0;31m    @@@ Don't try to copy this project. \x1b[0m
 \x1b[0;31m    All rights reserved by @zobaidulkazi.\x1b[0m
-
-\x1b[1m1. Private IP\x1b[0m
-\x1b[1m2. Public IP\x1b[0m
-\x1b[1m3. Exit\x1b[0m
 `);
 
 

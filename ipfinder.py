@@ -14,13 +14,11 @@ print('''
 \033[0;36m        Why This tool :: IP Finder is a simple command-line tool written in\033[0m
 \033[0;36m        Python/JavaScript that allows you to retrieve your \033[0m
 \033[0;36m        private and public IP addresses.\033[0m
-\033[0;36m        Contact with Me : \033[4;34m[GitHub](https://github.com/zobaidulkazi)\033[0m
+\033[0;36m        Contact with Me : \033[4;34m[Linkedin](https://www.linkedin.com/in/zobaidulkazi/)\033[0m
+\033[0;36m        GitHub repository: \033[4;34m[GitHub](https://github.com/zobaidulkazi/ip-finder.git)\033[0m
 \033[0;31m    @@@ Don't try to copy this project. \033[0m
 \033[0;31m    All rights reserved by @zobaidulkazi.\033[0m
 
-\033[1m1. Private IP\033[0m
-\033[1m2. Public IP\033[0m
-\033[1m3. Exit\033[0m
 ''')
 
 

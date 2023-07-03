@@ -1,4 +1,4 @@
-# # IP Finder
+## IP Finder
 
 IP Finder is a simple command-line tool written in Python/JavaScript that allows you to retrieve your private and public IP addresses.
 
@@ -15,7 +15,8 @@ IP Finder is a simple command-line tool written in Python/JavaScript that allows
 
 1. Clone the repository:
 ```
-   git clone https://github.com/your-username/ip-finder.git
+   git clone https://github.com/zobaidulkazi/ip-finder.git
+   
 ```
 
 
