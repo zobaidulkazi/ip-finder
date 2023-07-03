@@ -10,7 +10,7 @@ IP Finder is a simple command-line tool written in Python/JavaScript that allows
 ## Prerequisites
 
 - Python 3.x
-- JavaScript/Node
+- JavaScript/Node:18.x
 
 ## Usage
 
