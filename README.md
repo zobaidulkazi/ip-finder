@@ -10,13 +10,14 @@ IP Finder is a simple command-line tool written in Python/JavaScript that allows
 ## Prerequisites
 
 - Python 3.x
+- JavaScript/Node
 
 ## Usage
 
 1. Clone the repository:
 ```
    git clone https://github.com/zobaidulkazi/ip-finder.git
-   
+
 ```
 
 
